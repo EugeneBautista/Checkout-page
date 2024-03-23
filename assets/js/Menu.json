@@ -1,0 +1,163 @@
+[
+    {
+        "category": "Non-Cafeinated",
+        "items": [
+          {
+            "name": "Cold Chocolate Mousse",
+            "description": "Thick, creamy, and loaded with chocolate flavor",
+            "image": "assets/img/chocomousse.jpg",
+            "url": "#"
+          },
+          
+          {
+            "name": "Golden Milk Latte",
+            "description": "Cozy warming spices, your choice of milk, and can be served either hot or iced",
+            "image": "assets/img/goldenlatte.jpg",
+            "url": "#"
+          },
+    
+          {
+            "name": "Strawberry Smoothie",
+            "description": "Extra creamy and fruity",
+            "image": "assets/img/strawberrylatte.jpg",
+            "url": "#"
+          },
+          {
+            "name": "Avocado Smoothie",
+            "description": "Made with banana, avocado and coconut milk",
+            "image": "assets/img/avocado smoothie.jpg",
+            "url": "#"
+          },
+          {
+            "name": "Honeydew and Watermelon Iced Tea",
+            "description": "Succulent and sweet, summer melon is the perfect addition to a refreshing iced tea",
+            "image": "assets/img/watermelondew.jpg",
+            "url": "#"
+          }
+        ]
+      },
+
+      {
+        "category": "Salad",
+        "items": [
+          {
+            "name": "Caesar Salad",
+            "description": "Crowd-pleasing salad of crisp romaine leaves, crunchy croutons, and a little or a lot of anchovy, as you like",
+            "image": "assets/img/caesar salad.jpg",
+            "url": "#"
+          },
+          
+          {
+            "name": "Olive Garden Salad",
+            "description": "Lettuce, tomatoes, olives, onion and croutons, all tossed with a creamy Italian dressing",
+            "image": "assets/img/olivegreensalad.jpg",
+            "url": "#"
+          }
+        ]
+      },
+  {
+    "category": "Caffeinated Drinks",
+    "items": [
+      {
+        "name": "Cappuccino",
+        "description": "Perfect balance of espresso, steamed milk and foam",
+        "image": "assets/img/cappucino.jpg",
+        "url": "#"
+      },
+      
+      {
+        "name": "Latte",
+        "description": "Layers of espresso and steamed milk are mixed together and topped with a light layer of foam",
+        "image": "assets/img/latte.jpg",
+        "url": "#"
+      },
+
+      {
+        "name": "Affogato",
+        "description": "Traditional Italian dessert made from coffee (espresso) and ice cream",
+        "image": "assets/img/affogato.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Cafe Mocha",
+        "description": "Rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk",
+        "image": "assets/img/cafemocha.jpg",
+        "url": "#"
+      },
+      {
+        "name": "White Chocolate Mocha",
+        "description": "Espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream",
+        "image": "assets/img/whitemocha.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Caramel Macchiato",
+        "description": "Steamed milk, espresso, vanilla syrup and caramel drizzle",
+        "image": "assets/img/caramelmachia.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Cold Brew",
+        "description": "Made by steeping coffee in water for a number of hours at cold or ambient (room) temperature",
+        "image": "assets/img/coldbrew.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Americano",
+        "description": "Espresso shots topped with hot water create a light layer of crema",
+        "image": "assets/img/americano.jpg",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "category": "Pastries & Desserts",
+    "items": [
+      {
+        "name": "Banana Bread",
+        "description": "Moist texture, banana and brown sugar flavors, and super soft crumb & honey",
+        "image": "assets/img/banana bread.jpg",
+        "url": "#"
+      },
+      
+      {
+        "name": "Cinnamon Roll",
+        "description": "Pillowy soft, gooey-in-the-middle, smothered in cream cheese frosting",
+        "image": "assets/img/cinnamon.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Croissant",
+        "description": "French pastry made from puff pastry in a crescent shape",
+        "image": "assets/img/croissant.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Strawberry Scone",
+        "description": "Soft, billowy, crumbly, and studded with plenty of fresh strawberries",
+        "image": "assets/img/strawberryscone.jpg",
+        "url": "#"
+      },
+      {
+        "name": "Chocolate Gâteau de Crêpe",
+        "description": "Gâteau de crêpes with chocolate pastry cream and dulce de leche",
+        "image": "assets/img/chococrepe.jpg",
+        "url": "#"
+      },
+
+      {
+        "name": "Coffee Donut",
+        "description": "Moist, cake like texture and are dunked in a rich, espresso glaze",
+        "image": "assets/img/coffeedonut.jpg",
+        "url": "#"
+      },
+
+      {
+        "name": "Tiramisu",
+        "description": "Coffee soaked lady fingers, sweet and creamy mascarpone",
+        "image": "assets/img/tiramisu.jpg",
+        "url": "#"
+      }
+    ]
+  }
+]
